@@ -1,6 +1,6 @@
 <!-- Header -->
 					<header id="header" class="alt">
-						<a href="index.html" class="logo"><strong>PluginMine</strong> <span>a small organization of MCPE plugin devs</span></a>
+						<a href="index.php" class="logo"><strong>PluginMine</strong> <span>a small organization of MCPE plugin devs</span></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
