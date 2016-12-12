@@ -47,7 +47,7 @@
 									</span>
 									<header class="major">
 										<h3><a href="landing.html" class="link">xZeroMCPE</a></h3>
-										<p><!--xZeroMCPE Mini discription--></p>
+										<p>Proving custom, responsive, well coded plugins</p>
 									</header>
 								</article>
 								<article>
